@@ -1,40 +1,28 @@
 
 <div class="banner" align="center">
     <img src="https://64.media.tumblr.com/362d6f20d870ed58f86a5e7fffe8ad56/327b930877d67bb1-14/s100x200/3f944090fd466dede9b2696f521e4826575f4942.gifv"><img src="https://i.imgur.com/rhOuLpy.png" border="0"><img src="https://64.media.tumblr.com/f953c20a7151039463b661fbbb0e2ab4/327b930877d67bb1-db/s100x200/b53905543d315dd387e87edcaec25561d03fe0c6.gifv">
-    
-![Profile Banner](/profile.png)
+
+<img src="/profile.png" alt="About me picture" width="541" height="700">
 
 </div>
 
 ## About Me
-<p>My name is Rita, I am a front-end developer and artist.</p>
-<p>As someone born in the early 90s without any siblings, the computer and the internet were my best friends. Because of that, I have been playing around with HTML and CSS since the dawn of time (since around 2005, roughly). 
-I started out by customizing my own blogs like LiveJournal, Myspace and Tumblr as a fun hobby and since then I have helped friends create their own professional websites.</p>
-<p>In 2025, I decided to pursue this path professionally as coding has been such a big part of my life and is something that not only brings me joy, but also challenges me and keeps my problem solving skills and creativity actively engaged.</p>
-
+<p>I am a Junior Frontend Developer with a keen eye for aesthetics and a passion for crafting unique web experiences, aim to create digital environments that feel alive 🌀🌀🌀</p>
+<p>My journey with development began in the early 2000s as a self-taught enthusiast, where I spent my time modifying blog themes and exploring the mechanics of the web. Years later, I have executed a strategic career change to turn this lifelong passion into a profession by completing an intensive bootcamp and currently looking to expand my experience further in professional settings.</p>
 
 ## Experience 
-- 🌱 Concluded a [Front-End Development course](https://flag.pt/) in Lisbon in 2013;
-- 📝 Learned some Back-End Development [here](https://flag.pt/);
-- 🔭 Kept reviewing and further developing my skills through [Code Academy](https://www.codecademy.com/), [Free Code Camp](https://www.freecodecamp.org/) and [Code Wars](https://www.codewars.com/);
-- 🎨 Created a portfolio website for a friend back in 2016 <i>(no longer active)</i>;
-- 📚 Co-coded a [business website](https://www.adumatory.com) for another friend in 2022;
-- ⭐ Sucessfully graduated from [Spiced Academy's Web-Development bootcamp](https://www.spiced-academy.com/en/program/full-stack-web-development/online).
-
-### I am interested in learning:
-- TypeScript
-- TailWind
-- Angular
-- more on UX/UI and Web and App Design
+<p>🌱 Concluded a <a href="https://flag.pt/">Web and Mobile Development course</a> in Lisbon in 2013;</p> 
+<p>🎨 Created an art portfolio website in 2016 <i>(sadly no longer active)</i>;</p>
+<p>📚 Designed and co-developed a <a href="https://www.adumatory.com">business website</a> for a data science consultant in 2022;</p>
+<p>⭐ Sucessfully graduated from <a href="https://www.spiced-academy.com/en/program/full-stack-web-development/online">Spiced Academy's Web-Development bootcamp</a>.</p>
 
 ## What Else? 
+
+Besides all this, I am a ⭐<b>multidisciplinary artist</b>⭐. Most of it is based around crafts and visual art such as photography, fashion design and costume construction, makeup art, tattooing, cross-stitching, soldering, pottery, graphic design, pixelart, jewelry and accessories creation, and so much more! 
+
 <div align="center"> 
-    
+
 ![What Else Image](/paint.gif)
 
 </div>
-
-One of the most interesting web-development projects I am currently working on is creating my own 🐛<b>online art portfolio</b>🐛, as well as a 💤<b>dream blog</b>💤 to keep track of my incredibly detailed and vivid dreams, that will include a <b>newsletter feature</b> for those interested in keeping up with the most curious, random stories my brain germinates at night. 
-
-Besides all this, I am a ⭐<b>multidisciplinary artist</b>⭐. Most of it is based around crafts and visual art such as photography, fashion design and costume construction, makeup art, tattooing, cross-stitching, soldering, pottery, graphic design, pixelart, jewelry and accessories creation, and so much more! 
 
