@@ -16,13 +16,3 @@
 <p>📚 Designed and co-developed a <a href="https://www.adumatory.com">business website</a> for a data science consultant in 2022;</p>
 <p>⭐ Sucessfully graduated from <a href="https://www.spiced-academy.com/en/program/full-stack-web-development/online">Spiced Academy's Web-Development bootcamp</a>.</p>
 
-## What Else? 
-
-Besides all this, I am a ⭐<b>multidisciplinary artist</b>⭐. Most of it is based around crafts and visual art such as photography, fashion design and costume construction, makeup art, tattooing, cross-stitching, soldering, pottery, graphic design, pixelart, jewelry and accessories creation, and so much more! 
-
-<div align="center"> 
-
-![What Else Image](/paint.gif)
-
-</div>
-
