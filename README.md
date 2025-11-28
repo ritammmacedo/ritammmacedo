@@ -14,8 +14,8 @@
 
 
 ## Experience 
-<p>🌱 Concluded a <a href="https://flag.pt/">Web and Mobile Development course</a> in Lisbon in 2013;</p> 
-<p>🎨 Created an art portfolio website in 2016 <i>(sadly no longer active)</i>;</p>
-<p>📚 Designed and co-developed a <a href="https://www.adumatory.com">business website</a> for a data science consultant in 2022;</p>
-<p>⭐ Sucessfully graduated from <a href="https://www.spiced-academy.com/en/program/full-stack-web-development/online">Spiced Academy's Web-Development bootcamp</a>.</p>
+<p>🌱 Concluded a <a href="https://flag.pt/">Web and Mobile Development course</a> in Lisbon in 2013</p> 
+<p>📚 Designed and co-developed a <a href="https://www.adumatory.com">business website</a> for a data science consultant in 2022</p>
+<p>⭐ Sucessfully graduated from <a href="https://www.spiced-academy.com/en/program/full-stack-web-development/online">Spiced Academy's Web-Development bootcamp</a></p>
+<p>🎨 Currently creating a business portfolio website for a <a href="https://www.instagram.com/gh0re.grl/">professional piercer artist</a></p>
 
