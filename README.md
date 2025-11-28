@@ -4,11 +4,14 @@
 
 <img src="/profile.png" alt="About me picture" width="541" height="700">
 
+<img src="https://i.imgur.com/UZdQBpC.png">&nbsp;<img src="https://i.imgur.com/LWcgMxl.png">&nbsp;<img src="https://i.imgur.com/mBrHXOT.png">&nbsp;<img src="https://i.imgur.com/UjNtI9W.png">&nbsp;<img src="https://i.imgur.com/x58ZNn5.png">
+
 </div>
 
 ## About Me
 <p>I am a Junior Frontend Developer with a keen eye for aesthetics and a passion for crafting unique web experiences, aim to create digital environments that feel alive 🌀🌀🌀</p>
 <p>My journey with development began in the early 2000s as a self-taught enthusiast, where I spent my time modifying blog themes and exploring the mechanics of the web. Years later, I have executed a strategic career change to turn this lifelong passion into a profession by completing an intensive bootcamp and currently looking to expand my experience further in professional settings.</p>
+
 
 ## Experience 
 <p>🌱 Concluded a <a href="https://flag.pt/">Web and Mobile Development course</a> in Lisbon in 2013;</p> 
